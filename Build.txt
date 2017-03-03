@@ -1,9 +1,3 @@
-# vApp-Automation
-
-• Developed a Java based application for composing vApp and .OVF generation leveraging VMware studio.
-• Interactively imported vApp on vCenter Server and performed power on/off, shutdown and recent task retrieval.
-
-
 vapp_build script takes two Parameters : i) vapp
 					ii) Name of the vApp Profile with .xml format
 
